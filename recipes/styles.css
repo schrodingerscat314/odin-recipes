@@ -1,0 +1,61 @@
+h1.title {
+
+    color: hwb(22 8% 7%);
+    font-family:"Helvetica", sans-serif;
+    font-size:50px;
+    font-weight:bolder;
+    text-align:center;
+    
+}
+
+.image{
+
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height:300px;
+    width:auto;
+}
+
+.description{
+
+    color: black;
+    background-color:rgb(248, 196, 26);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30px;
+    font-weight:bolder;
+    text-align:center;
+
+}
+
+.para{
+
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:25px;
+    font-weight:100;
+    text-align:center;
+    text-wrap:balance;
+
+}
+
+.headers{
+    color:black;
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:25px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.lists{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    font-weight:lighter;
+    display: table;
+    margin-left:0px;
+    text-align: left;
+    list-style-position: inside;
+
+}
